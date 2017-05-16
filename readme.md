@@ -1,1 +1,1 @@
-hello, this is a test repository for SPARCS git Semina
+hello, this is a test repository for SPARCS git Seminar
